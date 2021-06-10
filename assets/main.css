@@ -1,4 +1,8 @@
-body {
+h1 {
     text-align: center;
     color: brown;
+}
+p {
+    text-align: center;
+    color: blue;
 }
