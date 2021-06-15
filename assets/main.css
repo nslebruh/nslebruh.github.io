@@ -1,14 +1,4 @@
-h1 {
-    text-align: center;
-    color: brown;
-}
-p {
-    text-align: center;
-    color: blue;
-}
-body {
-    background-color: darkslategray ;
-}
-html {
-    background-color: darkslategray;
+#p1 {
+    margin-left: 10px;
+    color: black;
 }
