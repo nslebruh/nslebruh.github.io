@@ -1,6 +1,11 @@
 body {
     text-align: center;
     color: black;
-    font-size: 10vw, 10vh;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#header1 {
+    font-size: 10vw;
+}
+#p1 {
+    font-size: 4vw;
 }
