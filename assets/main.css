@@ -1,11 +1,12 @@
 body {
     text-align: center;
     color: black;
-    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 #header1 {
     font-size: 10vw;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 #p1 {
     font-size: 4vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
